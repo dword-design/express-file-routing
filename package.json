@@ -1,6 +1,6 @@
 {
-  "name": "express-file-routing",
-  "version": "2.0.3",
+  "name": "@dword-design/express-file-routing",
+  "version": "0.0.1",
   "description": "Simple system-based file routing for Express",
   "author": "Matthias Halfmann",
   "repository": "matthiaaas/express-file-routing",
@@ -35,5 +35,8 @@
   },
   "files": [
     "dist"
-  ]
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
 }
